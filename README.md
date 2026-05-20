@@ -2,6 +2,13 @@
 
 API backend para simular juros compostos de financiamentos/investimentos, gerar memoria de calculo mensal e persistir historico em H2 embutido (ficheiro), sem Docker.
 
+## Autor
+
+Ramon Marques Coutinho - Matrícula: C078969
+Finalidade: Produção Temática – Av Técnica interna CAIXA
+PSI: 15262 - Talentos Digitais _ Caixaverso_DESENVOLVEDOR BACKEND JAVA _ASSISTENTE SENIOR (2058)
+PSI: 15263 - Talentos Digitais _ Caixaverso_DESENVOLVEDOR BACKEND JAVA _ASSISTENTE PLENO (2057)
+
 ## Stack
 
 - Java 25
